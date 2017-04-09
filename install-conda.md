@@ -62,7 +62,7 @@ conda update --yes --all
 
 ### Creating the `geopandasenv` conda environment
 
-Download the `environment.yml` file by going to [this link](https://raw.githubusercontent.com/BiG-CZ/BiG-CZ-Toolbox/master/geopandas/environment.yml), right clicking with the mouse and choosing `Save as...`
+Download the `environment.yml` file by going to [this link](environment.yml), right clicking with the mouse and choosing `Save as...`
 
 Open a terminal window where you saved the file and type the commands to create the environment and "activate" it.
 ```bash
